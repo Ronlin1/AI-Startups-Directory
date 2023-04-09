@@ -13,27 +13,27 @@ We welcome contributions to the AI Startups Directory! To add a new startup, ple
 ## License
 This repository is licensed under the MIT License. Please see the LICENSE file for more information.
 
-Buy Me Coffee
+## [Buy Me Coffee](https://www.buymeacoffee.com/RonnieAtuhaire)
 
+## Startup Section
+| Index | Startup        | Category              | URL                                       |
+|-------|----------------|-----------------------|-------------------------------------------|
+| 1     | PlaygroundAI   | Unique Image Generator | https://playgroundai.com/                  |
+| 2     | Durable        | Website Builder        | https://durable.co/                        |
+| 3     | Deep Nostalgia | Still-life Image Animator | https://www.myheritage.com/deep-nostalgia |
+| 4     | CleanVoiceAI   | Voice Editing         | https://cleanvoice.ai/                     |
+| 5     | Flair          | Brand Identity        | https://flair.ai/                          |
+| 6     | Tome           | Storytelling          | https://beta.tome.app/                     |
+| 7     | OutfitsAI      | Outfit Try-On         | https://www.outfitsai.com/                 |
+| 8     | Ocoya          | Social Media & Content | https://www.ocoya.com/                     |
+| 9     | Neurons        | AI Customer Prediction| https://www.neuronsinc.com/                |
+| 10    | WonderChat     | ChatBot Builder       | https://wonderchat.io/                     |
+| 11    | BuildAI        | Web and app development | https://www.buildai.space/               |
+| 12    | GreenScreenAI  | Image Background Transformer | https://greenscreenai.com/         |
+| 13    | TripNotesAI    | TripAdvisor and Planner | https://tripnotes.ai/app                  |
+| 14    | Kinetix        | 3D NFT Renderer       | https://www.kinetix.tech/                  |
+| 15    | Beatoven       | Music Composer        | https://www.beatoven.ai/pricing            |
 
-Startup Section
-| Startup        | Category              | URL                                       |
-|----------------|-----------------------|-------------------------------------------|
-| PlaygroundAI   | Unique Image Generator | https://playgroundai.com/                  |
-| Durable        | Website Builder        | https://durable.co/                        |
-| Deep Nostalgia | Still-life Image Animator | https://www.myheritage.com/deep-nostalgia |
-| CleanVoiceAI   | Voice Editing         | https://cleanvoice.ai/                     |
-| Flair          | Brand Identity        | https://flair.ai/                          |
-| Tome           | Storytelling          | https://beta.tome.app/                     |
-| OutfitsAI      | Outfit Try-On         | https://www.outfitsai.com/                 |
-| Ocoya          | Social Media & Content | https://www.ocoya.com/                     |
-| Neurons        | AI Customer Prediction| https://www.neuronsinc.com/                |
-| WonderChat     | ChatBot Builder       | https://wonderchat.io/                     |
-| BuildAI        | Web and app development | https://www.buildai.space/               |
-| GreenScreenAI  | Image Background Transformer | https://greenscreenai.com/         |
-| TripNotesAI    | TripAdvisor and Planner | https://tripnotes.ai/app                  |
-| Kinetix        | 3D NFT Renderer       | https://www.kinetix.tech/                  |
-| Beatoven       | Music Composer        | https://www.beatoven.ai/pricing            |
 
 
 
