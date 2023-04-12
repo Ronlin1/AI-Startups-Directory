@@ -2,7 +2,7 @@
 Welcome to the AI Startups Directory! This is a curated list of startups that are leveraging AI in different ways to solve real-world problems. The directory is constantly updated to ensure that it includes the most up-to-date startups in the AI space.
 
 ## Contributing
-We welcome contributions to the AI Startups Directory! To add a new startup, please follow these steps:
+Am welcoming contributions to the AI Startups Directory! To add a new startup, please follow these steps:
 
 ## Fork this repository
 - Clone your forked repository to your local machine
