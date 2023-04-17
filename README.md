@@ -10,6 +10,11 @@ Am welcoming contributions to the AI Startups Directory! To add a new startup, p
 - Commit your changes and push them to your forked repository
 - Create a pull request to merge your changes into the main repository
 
+## YouTube Videos
+- Part One
+- Part Two
+- Part Three
+
 ## License
 This repository is licensed under the MIT License. Please see the LICENSE file for more information.
 
